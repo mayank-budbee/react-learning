@@ -73,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 npm install react-pagination
 npm install classnames
 # react-learning
+
+### React bootstrap ###
+npm install react-bootstrap bootstrap
