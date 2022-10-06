@@ -76,3 +76,5 @@ npm install classnames
 
 ### React bootstrap ###
 npm install react-bootstrap bootstrap
+npm install react-bootstrap-table-next
+npm install react-bootstrap-table2-paginator
